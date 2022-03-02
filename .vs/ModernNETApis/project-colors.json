@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd49b764-291a-48e1-9eba-13a60b0715dc": {
+      "ProjectGuid": "fd49b764-291a-48e1-9eba-13a60b0715dc",
+      "DisplayName": "ModernNETApis",
+      "ColorIndex": 0
+    },
+    "87d3dea4-0ee7-48fd-b427-861b97fdd9f5": {
+      "ProjectGuid": "87d3dea4-0ee7-48fd-b427-861b97fdd9f5",
+      "DisplayName": "MinimalWebApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
